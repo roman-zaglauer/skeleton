@@ -1,2 +1,3 @@
 # skeleton
-Template for all applications
+
+Template for typescript applications
