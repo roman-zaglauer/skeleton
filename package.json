@@ -1,0 +1,19 @@
+{
+  "name": "skeleton",
+  "version": "1.0.0",
+  "description": "Skeleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roman-zaglauer/skeleton.git"
+  },
+  "author": "Roman Zaglauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roman-zaglauer/skeleton/issues"
+  },
+  "homepage": "https://github.com/roman-zaglauer/skeleton#readme"
+}

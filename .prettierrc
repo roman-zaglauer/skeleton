@@ -1,0 +1,15 @@
+{
+  "tabWidth": 4,
+  "printWidth": 120,
+  "trailingComma": "none",
+  "arrowParens": "avoid",
+  "endOfLine": "lf",
+  "overrides": [
+    {
+      "files": ["*.json", "*.yaml", ".eslint*"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}

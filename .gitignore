@@ -1,0 +1,41 @@
+# General
+_out
+*.db
+*.sqlite
+connection.properties
+default-*.json
+.cdsrc-private.json
+gen/
+node_modules/
+target/
+
+# Environment
+.env
+
+# Web IDE, App Studio
+.che/
+.gen/
+
+# MTA
+*_mta_build_tmp
+*.mtar
+mta_archives/
+
+# JEST
+coverage/
+
+# Other
+.DS_Store
+*.orig
+*.log
+
+*.iml
+*.flattened-pom.xml
+
+# IDEs
+.vscode
+.idea
+
+# UI5 builds
+dist/
+resources/

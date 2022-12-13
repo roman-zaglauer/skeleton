@@ -1,2 +1,2 @@
 # skeleton
-Application Skeleton
+Template for all applications
