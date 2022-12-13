@@ -1,0 +1,2 @@
+# skeleton
+Application Skeleton
